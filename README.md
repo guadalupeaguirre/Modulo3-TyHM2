@@ -1,4 +1,5 @@
-# Modulo 3 - 
+# Modulo 3 - Taller de fotografía
+En este trabajo práctico aplicamos técnicas de fotografía forense para registrar y analizar evidencias visuales en ingeniería. A través de un taller, comprobamos que una captura correcta y el análisis de sus parámetros técnicos permiten usar las imágenes como prueba documental y sustento de decisiones técnicas.
 
 El análisis se divide en dos áreas de aplicación:
 Análisis de falla de material: estudio pericial de la rotura de una barra de acero corrugado. Se interpreta cómo se produjo la rotura (transición dúctil-frágil, fatiga y corrosión) y se extraen los metadatos EXIF de las fotos para asegurar la trazabilidad legal y técnica de la evidencia.
