@@ -8,4 +8,4 @@ Análisis de falla de material: estudio pericial de la rotura de una probeta de 
 Análisis técnico de parámetros fotográficos: evaluación crítica de una fotografía documental de un evento. Con los conceptos del taller, se analizan la iluminación, la composición, la profundidad de campo, la saturación y el contexto del entorno.
 
 ## Informe
-Documento del trabajo: [Ver PDF](./Tallerde Fotografía-Módulo3.pdf)
+Documento del trabajo: [Ver PDF](./TallerdeFotografía-Módulo3.pdf)
