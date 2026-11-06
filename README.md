@@ -1,4 +1,6 @@
 # Modulo 3 - Taller de fotografía
+
+## Descripción del proyecto
 En este trabajo aplicamos técnicas de fotografía forense para registrar y analizar evidencias visuales en ingeniería. A través de un taller, comprobamos que una captura correcta y el análisis de sus parámetros técnicos permiten usar las imágenes como prueba documental y sustento de decisiones técnicas.
 
 El análisis se divide en dos áreas de aplicación:
